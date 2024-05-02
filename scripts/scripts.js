@@ -24,8 +24,6 @@ const AUDIENCES = {
   // define your custom audiences here as needed
 };
 
-
-
 /**
  * Gets all the metadata elements that are in the given scope.
  * @param {String} scope The scope/prefix for the metadata
