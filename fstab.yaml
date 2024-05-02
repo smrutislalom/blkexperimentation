@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p11802-e21402.adobeaemcloud.com/bin/franklin.delivery/smruti1987/blk-experimentation/main"
+    url: "https://author-p11802-e21402.adobeaemcloud.com/bin/franklin.delivery/smruti1987/blkexperimentation/main"
     type: "markup"
     suffix: ".html"
