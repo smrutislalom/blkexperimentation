@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/blk-experimentation/:/",
-    "/content/blk-experimentation/configuration:/.helix/config.json",
-    "/content/blackrock-poc/metadata:/metadata.json"
+    "/content/blkexperimentation/:/",
+    "/content/blkexperimentation/configuration:/.helix/config.json",
+    "/content/blkexperimentation/metadata:/metadata.json"
   ]
 }
