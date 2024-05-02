@@ -10,6 +10,10 @@ import {
   waitForLCP,
   loadBlocks,
   loadCSS,
+  getMetadata,
+  loadScript,
+  toCamelCase,
+  toClassName,
 } from './aem.js';
 
 const LCP_BLOCKS = []; // add your LCP blocks to the list
@@ -20,7 +24,6 @@ const AUDIENCES = {
   // define your custom audiences here as needed
 };
 
-
 window.hlx.plugins.add('experimentation', {
   condition: () => getMetadata('experiment')
     || Object.keys(getAllMetadata('campaign')).length
@@ -28,7 +31,6 @@ window.hlx.plugins.add('experimentation', {
   options: { audiences: AUDIENCES },
   url: '/plugins/experimentation/src/index.js',
 });
-
 
 /**
  * Gets all the metadata elements that are in the given scope.
