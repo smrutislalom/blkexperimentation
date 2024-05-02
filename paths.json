@@ -1,6 +1,7 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/blk-experimentation/:/",
+    "/content/blk-experimentation/configuration:/.helix/config.json",
+    "/content/blackrock-poc/metadata:/metadata.json"
   ]
 }
