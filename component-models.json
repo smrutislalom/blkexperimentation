@@ -1,5 +1,55 @@
 [
   {
+    "id": "page-metadata",
+    "fields": [
+      {
+        "component": "text",
+        "name": "theme",
+        "label": "Theme"
+      },
+      {
+        "component": "text",
+        "name": "nav",
+        "label": "Nav"
+      },   
+      {
+        "component": "text",
+        "name": "footer",
+        "label": "Footer"
+      },
+      {
+        "component": "richtext",
+        "name": "abstract",
+        "label": "Absrtact",
+        "description": "Enter an abstract for site search"
+      },
+      {
+        "component": "text",
+        "name": "url",
+        "label": "URL",
+        "description": "Enter URL to apply metadata"
+      },
+      {
+        "component": "text",
+        "name": "experiment",
+        "label": "Experiment",
+        "description": "Enter an experiment Id"
+      },
+      {
+        "component": "text",
+        "name": "experiment variants",
+        "label": "Experiment Variants",
+        "description": "Enter experiment variant URL"
+      },
+      {
+        "component": "text",
+        "name": "experiment audience",
+        "label": "Experiment Audience",
+        "description": "Enter experiment audience"
+      }
+    ]
+  },
+  {
     "id": "title",
     "fields": [
       {
