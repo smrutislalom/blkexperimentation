@@ -25,12 +25,6 @@
       },
       {
         "component": "text",
-        "name": "url",
-        "label": "URL",
-        "description": "Enter URL to apply metadata"
-      },
-      {
-        "component": "text",
         "name": "experiment",
         "label": "Experiment",
         "description": "Enter an experiment Id"
