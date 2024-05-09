@@ -227,6 +227,15 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "aem-content",
+        "name": "reference",
+        "value": "",
+        "label": "AEM Content Picker",
+        "valueType": "string",
+        "description": "Select a fragment",
+        "rootPath":"/content"
       }
     ]
   }
