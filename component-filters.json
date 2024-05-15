@@ -28,7 +28,7 @@
       "hero",
       "cards",
       "columns",
-      "form-general"
+      "form"
     ]
   },
   {
@@ -38,7 +38,7 @@
     ]
   },
   {
-    "id": "form-general",
+    "id": "form",
     "components": [
       "plain-text",
       "text-input",
