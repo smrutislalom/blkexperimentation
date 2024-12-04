@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/blkexperimentation/:/",
-    "/content/blkexperimentation/configuration:/.helix/config.json",
-    "/content/blkexperimentation/metadata:/metadata.json"
+    "/content/EDSExperimentation/:/",
+    "/content/EDSExperimentation/configuration:/.helix/config.json",
+    "/content/EDSExperimentation/metadata:/metadata.json"
   ]
 }
